@@ -1,6 +1,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
 
-<h1> Hi, I'm Dream Coder Ellie <img src="https://user-images.githubusercontent.com/1569988/159394239-e0c43e47-0215-4e4f-983b-559c1994a9f7.png" height="180"></h1>
+<h1>if (coffee.isEmpty()) { <em></em>
+    developer.refill(coffee);
+} else if (code.hasBugs()) {
+    developer.debug(code);
+} else {
+    developer.procrastinate();
+}
+</h1>
 
 <p>
   <em>
@@ -24,16 +31,26 @@
 </p>
 
 <br />
-<h2> My tech stack 📚 </h2>
+<h2>Languages and Tools:</h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+
+
+
+
+![Java](https://img.shields.io/badge/-Java-%23D2691E?style=for-the-badge&logo=coffeescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray)
+![HTML](https://img.shields.io/badge/-HTML-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-007ACC?style=for-the-badge&logo=css3)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![COBOL](https://img.shields.io/badge/-COBOL-222222?style=for-the-badge&logo=coil&logoColor=white)
+![Mysql](https://img.shields.io/badge/-MySQL-2E9FFF?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+
+
+
+
+
+
 
 <br/>
 

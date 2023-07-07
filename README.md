@@ -1,10 +1,5 @@
-<div align="center">
-<h1> Hello, World! </h1>
 
-</div>
-
-
-![Hello, World!]("https://github.com/Byubjung/Byubjung/8653b1a3-4939-4739-b6b2-ad435f6dfd8a.gif")
+<img src="https://github.com/Byubjung/Byubjung/blob/main/8653b1a3-4939-4739-b6b2-ad435f6dfd8a.gif" width="1600" height="200"/>
 
 
 <h2>💡A Little Bit About Me and My Interests</h2>

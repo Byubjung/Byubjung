@@ -1,6 +1,6 @@
-
-<img src="https://github.com/Byubjung/Byubjung/blob/main/8653b1a3-4939-4739-b6b2-ad435f6dfd8a.gif" width="1600" height="200"/>
-
+<div align="center">
+<img src="https://github.com/Byubjung/Byubjung/blob/main/template1.gif" width="1600" height="200"/>
+</div>
 
 <h2>💡A Little Bit About Me and My Interests</h2>
 
@@ -55,7 +55,7 @@
 
 <br>
 <br>
-<h2>projects</h2>
+<h2>Projects</h2>
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Byubjung&repo=Byubjung&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 

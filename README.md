@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://github.com/Byubjung/Byubjung/blob/main/template1.gif" width="1600" height="200"/>
+<img src="https://github.com/Byubjung/Byubjung/blob/main/template1.gif" width="1500" height="200"/>
 </div>
-
-<h2>💡A Little Bit About Me and My Interests</h2>
+<br>
+<br>
+<h2>:white_square_button: A Little Bit About Me</h2>
 
 ```yaml
 {
@@ -37,9 +38,17 @@
 }
 
 ```
-  
+
 <br>
-<h2>Languages and Tools:</h2>
+<br>
+
+<h2>:white_square_button: Projects</h2>
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Byubjung&repo=Byubjung&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
+<br>
+<br>
+
+<h2>:white_square_button: Languages and Tools:</h2>
 
 ![Java](https://img.shields.io/badge/-Java-%23D2691E?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
@@ -52,11 +61,5 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-ED1C24.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsang7046@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-1D2D35.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Byubjung)
-
-<br>
-<br>
-<h2>Projects</h2>
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Byubjung&repo=Byubjung&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
 
 

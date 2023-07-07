@@ -2,10 +2,10 @@
 <h1> Hello, World! </h1>
 
 </div>
-![Hello World GIF](https://cdn.hashnode.com/res/hashnode/image/upload/v1651461516895/bdym5glUC.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
-![Hello, World!]("C:\Users\kimsa\Downloads\bdym5glUC.avif")
-<div class="tenor-gif-embed" data-postid="18564330" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hello-world-gif-18564330">Hello World GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![Hello, World!]("https://github.com/Byubjung/Byubjung/8653b1a3-4939-4739-b6b2-ad435f6dfd8a.gif")
+
 
 <h2>💡A Little Bit About Me and My Interests</h2>
 

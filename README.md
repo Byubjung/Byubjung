@@ -65,7 +65,7 @@
 <h2>:white_square_button: Contact me:</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-ED1C24.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsang7046@gmail.com)
-[![Algonquin_college_Mail](https://img.shields.io/badge/Algonquin_College-6D4AFF.svg?&style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:kimsang7046@gmail.com)
+[![Algonquin_college_Mail](https://img.shields.io/badge/Algonquin_College-6D4AFF.svg?&style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:kang0096@algonquinlive.com)
 [![Github](https://img.shields.io/badge/GitHub-1D2D35.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Byubjung)
 
 
